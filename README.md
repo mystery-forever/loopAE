@@ -1,1 +1,1 @@
-# loopAE
+# Cyclic Autoencoder
